@@ -1,3 +1,4 @@
+-----------------------------------------------------
 # DN 8.1
 #
 # mood = str(input("How do you feel?"))
@@ -67,7 +68,7 @@
 # secondNumber = int(input("Vnesi drugo stevilo:"))
 # calc = str(input("Vnesi +, če želiš seštevati, - za odštevanje, * za množenje ali / za deljenje:"))
 #
-# 
+#
 # if calc == "+":
 #     print(firstNumber + secondNumber)
 # elif calc == "-":
